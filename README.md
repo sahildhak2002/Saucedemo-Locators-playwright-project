@@ -8,9 +8,7 @@ The main objective of this project is to gain hands-on experience with:
 - Writing structured and reusable test files
 - Automating real-world web elements for login and navigation
 
-This project is helpful for **QA Manual Testers moving to Automation Testing** and for **Playwright interview preparation**.
-
-## 🧪 Test Files in This Project
+## Test Files in This Project
 The project contains multiple test files, each focused on different locator concepts:
 
 - `tests/FirstTest.spec.js`  
@@ -48,9 +46,7 @@ The project contains multiple test files, each focused on different locator conc
 - VS Code
 - Git & GitHub
 
-## ▶ How to Run the Tests
-1. Install dependencies:
-```bash
-npm install
+
+
 
 
